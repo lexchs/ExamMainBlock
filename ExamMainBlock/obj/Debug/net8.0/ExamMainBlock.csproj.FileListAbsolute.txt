@@ -1,0 +1,14 @@
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/bin/Debug/net8.0/ExamMainBlock
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/bin/Debug/net8.0/ExamMainBlock.deps.json
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/bin/Debug/net8.0/ExamMainBlock.runtimeconfig.json
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/bin/Debug/net8.0/ExamMainBlock.dll
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/bin/Debug/net8.0/ExamMainBlock.pdb
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/obj/Debug/net8.0/ExamMainBlock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/obj/Debug/net8.0/ExamMainBlock.AssemblyInfoInputs.cache
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/obj/Debug/net8.0/ExamMainBlock.AssemblyInfo.cs
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/obj/Debug/net8.0/ExamMainBlock.csproj.CoreCompileInputs.cache
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/obj/Debug/net8.0/ExamMainBlock.dll
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/obj/Debug/net8.0/refint/ExamMainBlock.dll
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/obj/Debug/net8.0/ExamMainBlock.pdb
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/obj/Debug/net8.0/ExamMainBlock.genruntimeconfig.cache
+/Users/alekseycheremisin/RiderProjects/ExamMainBlock/ExamMainBlock/obj/Debug/net8.0/ref/ExamMainBlock.dll
